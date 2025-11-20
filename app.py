@@ -35,7 +35,7 @@ st.markdown('## About Me')
 
 st.markdown(
     """
-    JC Chouinard is a senior SEO Strategist at Tripadvisor, previously SEEK. He is focused on AI search and AI Product Management. He helps the SEO community learn Python and Machine Learning on his blog at [jcchouinard.com](https://www.jcchouinard.com)
+    JC Chouinard is a senior SEO Strategist at Tripadvisor, previously SEEK. He is focused on AI search and AI Product Management. He helps the SEO community learn Python and Machine Learning on his blog at [jcchouinard.com](https://www.jcchouinard.com). Build as a [streamlit example](https://jcchouinard-first-streamlit-app-app-i07a2j.streamlit.app/)
     """
 )
 st.write("")
