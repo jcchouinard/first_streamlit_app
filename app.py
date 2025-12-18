@@ -258,7 +258,7 @@ with tab_portfolio:
             """, unsafe_allow_html=True)
 
     st.markdown("---")
-    st.markdown("### Blog Posts by Topic")
+    st.markdown("### Blog Posts by Topic") 
     try:
         df_urls = pd.read_csv("top_urls_by_topic.csv")
         available_topics = sorted(df_urls['topic'].unique())

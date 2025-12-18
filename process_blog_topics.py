@@ -69,4 +69,3 @@ def run_clean_report():
 if __name__ == "__main__":
     run_clean_report()
 
-
