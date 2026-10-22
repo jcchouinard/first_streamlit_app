@@ -259,6 +259,7 @@ with tab_edu:
     st.write("Data Scientist Professional Certification | [Full Profile](https://www.datacamp.com/portfolio/jcchouinard)")
     st.write("---")
     st.markdown("#### Academic Degree")
+    st.write("Master of Computer Science | Université Téluq | In Progress since 2026")
     st.write("Bachelor of Business Administration | Université de Sherbrooke | 2012")
     st.write("---")
     st.markdown("#### In Progress")
