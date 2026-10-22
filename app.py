@@ -276,7 +276,7 @@ with tab_portfolio:
     with p1:
         st.markdown("""<div class="content-card"><h4>1. GSC API Tool</h4><p>Python automation for deep log-file and SEO data analysis.</p><a href="https://github.com/jcchouinard/GoogleSearchConsole-Tutorial">View Repository</a></div>""", unsafe_allow_html=True)
     with p2:
-        st.markdown("""<div class="content-card"><h4>2. Reddit API Ingestion</h4><p>Scalable NLP analysis system for community discussions.</p><a href="https://www.jcchouinard.com/reddit-api/">View Case Study</a></div>""", unsafe_allow_html=True)
+        st.markdown("""<div class="content-card"><h4>2. ChatGPT Chrome Extension</h4><p>Scraping and viewing ChatGPT responses</p><a href="https://chromewebstore.google.com/detail/llm-inspector/fphgdjajimcchgblmjfbdjfbiapgnhei?authuser=0&hl=en-US">View App</a></div>""", unsafe_allow_html=True)
     with p3:
         st.markdown("""<div class="content-card"><h4>3. Reddit API Ingestion</h4><p>Scalable NLP analysis system for community discussions.</p><a href="https://www.jcchouinard.com/reddit-api/">View Case Study</a></div>""", unsafe_allow_html=True)
     st.markdown("---")
