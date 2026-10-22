@@ -272,7 +272,7 @@ with tab_edu:
     
 with tab_portfolio:
     st.markdown("### Featured Systems")
-    p1, p2 = st.columns(2)
+    p1, p2, p3 = st.columns(3)
     with p1:
         st.markdown("""<div class="content-card"><h4>1. GSC API Tool</h4><p>Python automation for deep log-file and SEO data analysis.</p><a href="https://github.com/jcchouinard/GoogleSearchConsole-Tutorial">View Repository</a></div>""", unsafe_allow_html=True)
     with p2:
